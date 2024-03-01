@@ -1,0 +1,4 @@
+Para dar commit é:
+
+git commit -m "Nome do commit"
+git push
